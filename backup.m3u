@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-logo="" group-title="Backup_SPORTS" tvg-id="814.astro" tvg-logo="https://get.perfecttv.net/logo/badminton.png" group-logo="",809 Astro Badminton
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
+https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrobadminton
