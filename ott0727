@@ -16,4 +16,17 @@ https://www.dropbox.com/scl/fi/q3e2206jro4dqlasghj61/digitalhub-movie-collection
 #EXTVLCOPT:http-referrer=https://sooka.my
 'https://l04.dp.sooka.my/2400/linear/index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0Safari/537.36"} 
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDIyNzI2MTgsImlzcyI6IlZSIiwiZXhwIjoxNzQyMzM3MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMGI4MmNmNjMtNzllZC00Y2Y1LThhZWUtMDQ0N2Y4YWZhMjU5IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MTA4MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.2ju2sagTIFFidSPv4uSgQyCZ5tc0KYx8fNHRzWQo7Aw"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"655b6df8085d4fe6b3f71c0f4288f98a":"5f0d4251e05e0a3a661218169ee84181","d66e2fe5f045426195d432802f9ba807":"6fe283a6f1f3a3fb69f82c4340e0dde2"}
+#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" tvg-name="Astro AEC HD" ch-number="AstroAEC" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiMnseXTUbrqkdPABEZKUBOVZ6GumI2pEA_LrOqVDx-Y_FsfbYoFHalpivq-AW_fBFpUDNEdXbfRd9opxQKrGFsPIX7zViW8QQGLyR86IA0iRzLe23qWZa-wPn-0okQxW7GHzpZ2ZffHGolK9PI6em-m-rleIzLxSBll4ocbw8UniG8AXWO8PymlU2NWKWx" group-title="Chinese",306 Astro AEC
+#EXTVLCOPT:http-referrer=https://sooka.my
+'https://l04.dp.sooka.my/2400/linear/index.mpd
+
+#EXTINF:-1  tvg-id="AstroAODHD" tvg-name="Astro AOD HD 311" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_AOD.png",311 Astro AOD
+'https://linears-playback.astro.com.my/vsg/41S23FfGWUydI5qfv_nacg2dzwe2UalZtyA00KKnlS3x0=wdfK/dash-wv/jitp-linearwm/2706/default_ott.mpd
+
 </noscript>
