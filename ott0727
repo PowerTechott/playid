@@ -6,44 +6,94 @@ vod_library="https://www.dropbox.com/scl/fi/b87qo43x6tr2gws8h396f/digitalhub-mov
 https://www.dropbox.com/scl/fi/q3e2206jro4dqlasghj61/digitalhub-movie-collections-v2.html?rlkey=afckva2zaqvis8mln42b72gzx&st=1g0ccx38&dl=1"   
 
 
-#EXTINF:-1 player-buffer="2" tvg-id="306.astro" tvg-name="AEC HD" ch-number="306" tvg-logo="https://i.ytimg.com/vi/lNSOCAK9mGE/maxresdefault.jpg" group-title="Chinese",306 AEC 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://6d89103bd71249868d55d5f309068b0c.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH13-dash/vsg/41nAB47Z-XF-f3Hv_-R6ptzj2ECnmKrmor8mIjOm-J5wo=_PDP/dash-wv/jitp-dashisowm/2400/default_ott.mpd?aws.sessionId=2af40a7f-6c0e-419c-bfa3-ac139fc19c6c
+#=====chinese======
 
-
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-logo="https://get.perfecttv.net/logo/aod.png" tvg-id="",123 AOD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F24pOLznldHIVVmiRAR39w","kid":"KGrvTo2F22bgX+Slx5nkEA"}],"type":"temporary"}
-#EXTINF:-1  group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" tvg-id="311.astro",Astro AOD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Android TV Build/RKQ1.210303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.0.0 Safari/537.363
+#KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDg3MzI0MjEsImlzcyI6IlZSIiwiZXhwIjoxNzQ4ODE3MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiODUxMzhjMmMtZjQzOS00YTFiLWJiOWUtY2UxNTlhY2U0NmViIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.HeOjO5oPVxn0w-a4K6jge4qBz7D6rr7alrnpjDEMaoY"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-logo="https://get.perfecttv.net/logo/aec2.png" tvg-id="AstroAEC",124 AEC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=655b6df8085d4fe6b3f71c0f4288f98a:5f0d4251e05e0a3a661218169ee84181
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aechd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-logo="https://get.perfecttv.net/logo/aecfhd.png" tvg-id="AstroAEC",124 AEC FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d66e2fe5f045426195d432802f9ba807:6fe283a6f1f3a3fb69f82c4340e0dde2
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aecfhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+
+
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="333.astro" tvg-logo="https://get.perfecttv.net/logo/huaheedai2.png" group-logo="" group-title ="",125 Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"655b6df8085d4fe6b3f71c0f4288f98a":"5f0d4251e05e0a3a661218169ee84181","d66e2fe5f045426195d432802f9ba807":"6fe283a6f1f3a3fb69f82c4340e0dde2"}
-#EXTINF:-1 player-buffer="2" tvg-id="306.astro" tvg-name="AEC HD" ch-number="306" tvg-logo="https://i.ytimg.com/vi/lNSOCAK9mGE/maxresdefault.jpg" group-title="Chinese" ,ASTRO AEC
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/قضيب أمك هو لص.NDQ3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmE1MzU4YmItNWFmMy00ZmQ3LWFjNTYtOTJjYzYyZWU1MmZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.gxDM062SMVsppxHR3qN14BpDeSsTGp1tU2nxC7cPBok; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
-'https://l04.dp.sooka.my/2400/linear/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=huaheedai
+
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="300.astro" tvg-logo="https://get.perfecttv.net/logo/iqiyi.png" ,126 iQIYI
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=iqiyi
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/قضيب أمك هو لص.DAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmE1MzU4YmItNWFmMy00ZmQ3LWFjNTYtOTJjYzYyZWU1MmZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.gxDM062SMVsppxHR3qN14BpDeSsTGp1tU2nxC7cPBok; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU4ODA3OTgsImlzcyI6IlZSIiwiZXhwIjoxNzQ1OTY1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMWRlODIwNjEtOTg4NC00MTNjLTg1NmUtMWFmYTk0NTg2YTlhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjQwMCJ9.1KtQ21Y9S_pVbFHXK0erTVB2e2erNg1dibYpfYwHCck"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"655b6df8085d4fe6b3f71c0f4288f98a":"5f0d4251e05e0a3a661218169ee84181","d66e2fe5f045426195d432802f9ba807":"6fe283a6f1f3a3fb69f82c4340e0dde2"}
-#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" tvg-name="Astro AEC HD" ch-number="AstroAEC" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiMnseXTUbrqkdPABEZKUBOVZ6GumI2pEA_LrOqVDx-Y_FsfbYoFHalpivq-AW_fBFpUDNEdXbfRd9opxQKrGFsPIX7zViW8QQGLyR86IA0iRzLe23qWZa-wPn-0okQxW7GHzpZ2ZffHGolK9PI6em-m-rleIzLxSBll4ocbw8UniG8AXWO8PymlU2NWKWx" group-title="Chinese",306 Astro AEC
-#EXTVLCOPT:http-referrer=https://sooka.my
-'https://l04.dp.sooka.my/2400/linear/index.mpd
+#KODIPROP:inputstream.adaptive.manifest.type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36978c8e295e42ccbcc45d719e32e7f3:22c4936cc4dcab2daf96a36a5c12257e
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="308.astro" tvg-logo="https://get.perfecttv.net/logo/qj.png" ,127 QJ (A)
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=qjhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcxMjkwNTU1OSwiaWF0IjoxNzEyMzAxNTU5fQ.640SdR64ZO0X2Xm35Veujs0mMqHSeXleDDRLM25QFLo"}
+#KODIPROP:inputstream.adaptive.manifest.type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5e95e7e52194b8f8e254a75ef1904dc:40f8e7cc17810c91dfa22a52e72af7e8
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="308.astro" tvg-logo="https://get.perfecttv.net/logo/qjfhd.png" ,127 QJ FHD
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=qjfhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+
+#EXTINF:-1 tvg-id="TVBJade" tvg-name="TVB Jade" group-title="CHINESE" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tvbjade.png",128 TVB Jade
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"51Fl04uQlWfAM1OuSye2+A", "kid":"AesRaCCJQPiycLTgmUVw5w" } ], "type":"temporary" }
-#EXTINF:-1 group-title="CHINESE" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_AEC.png" tvg-id="AstroAEC",Astro AEC HD
-'https://l04.dp.sooka.my/2400/linear/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbjade
 
+#EXTINF:-1 tvg-id="TVBSAsia" tvg-name="TVBS Asia HD" group-title="CHINESE" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tvbs.png",129 TVBS Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbasia
+
+#EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB Xing He HD" group-title="CHINESE" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tvbxinghe.png",130 TVB 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbxinghe
+
+
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="" ch-number="317" tvg-logo="https://get.perfecttv.net/logo/tvbentertainmentnews.png",131 TVB Entertainment News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbent
+
+#EXTINF:-1 tvg-id="TVBClassic" tvg-name="TVB Classic HD" group-title="CHINESE" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tvbclassic.png",132 TVB Classic
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbclassic
+
+#EXTINF:-1 tvg-id="" ch-number="235" tvg-name="CCTV4 HD" tvg-logo="https://get.perfecttv.net/logo/cctv4.png" group-title="CHINESE",133 CCTV4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" ch-number="235" tvg-name="CCTV4 HD" tvg-logo="https://get.perfecttv.net/logo/ctiasia.png" group-title="CHINESE",134 Cti Asia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d626598c2ab452537509dcb8a86db910:f5a9cadea2372a52c2b91f9c261fe0a4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 </noscript>
