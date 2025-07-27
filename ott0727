@@ -1,0 +1,18 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,
+https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,
+https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://epg.pw/xmltv/epg_MY.xml,
+https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" refresh="140" billed-msg="BELI HANYA DI PowerTech DIGITAL OFFICIAL (SHOPEE)" 
+vod_library="https://www.dropbox.com/scl/fi/b87qo43x6tr2gws8h396f/digitalhub-movie-collections.html?rlkey=gc42705vejt6uq74mhw88rgmn&st=hpkuk5tm&dl=1,
+https://www.dropbox.com/scl/fi/q3e2206jro4dqlasghj61/digitalhub-movie-collections-v2.html?rlkey=afckva2zaqvis8mln42b72gzx&st=1g0ccx38&dl=1"   
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDg3MzI0MjEsImlzcyI6IlZSIiwiZXhwIjoxNzQ4ODE3MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiODUxMzhjMmMtZjQzOS00YTFiLWJiOWUtY2UxNTlhY2U0NmViIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.HeOjO5oPVxn0w-a4K6jge4qBz7D6rr7alrnpjDEMaoY"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"655b6df8085d4fe6b3f71c0f4288f98a":"5f0d4251e05e0a3a661218169ee84181","d66e2fe5f045426195d432802f9ba807":"6fe283a6f1f3a3fb69f82c4340e0dde2"}
+#EXTINF:-1 player-buffer="2" tvg-id="306.astro" tvg-name="AEC HD" ch-number="306" tvg-logo="https://i.ytimg.com/vi/lNSOCAK9mGE/maxresdefault.jpg" group-title="Chinese" ,ASTRO AEC
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/قضيب أمك هو لص.NDQ3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmE1MzU4YmItNWFmMy00ZmQ3LWFjNTYtOTJjYzYyZWU1MmZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.gxDM062SMVsppxHR3qN14BpDeSsTGp1tU2nxC7cPBok; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
+'https://l04.dp.sooka.my/2400/linear/index.mpd
+
+</noscript>
